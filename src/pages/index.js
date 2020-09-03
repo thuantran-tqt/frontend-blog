@@ -8,32 +8,31 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Easy to Use</>,
-    imageUrl: 'img/undraw_docusaurus_mountain.svg',
-    description: (
-      <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
-      </>
-    ),
-  },
-  {
-    title: <>Focus on What Matters</>,
+    title: <>Mục đích của Blog</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Blog này được lập ra với mục đích để mình viết tài liệu về những gì mình đã được học từ thầy, từ những khóa học, ... nằm trong <code>documentation</code> directory. Để mình có thể ôn lại bất kỳ lúc này cũng nhau nhiều năm sau mình có một nơi lưu trữ chặng đường mình đã đi qua và có cái để nhìn lại mình đã học và làm được gì.
       </>
     ),
   },
+
   {
-    title: <>Powered by React</>,
+    title: <>Dành cho Beginners</>,
+    imageUrl: 'img/undraw_docusaurus_mountain.svg',
+    description: (
+      <>
+        Mình là một người bắt đầu từ con số 0 trong lĩnh vực Front-end. Mình tin rằng Blog này có thể giúp các bạn bắt đầu từ con số 0 như mình có thể tìm được định hướng đúng để phát triển sự nghiệp trong lĩnh vực lập trình.
+      </>
+    ),
+  },
+
+  {
+    title: <>Lưu ý quan trọng</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Vì mục đích chính của Blog này là tổng hợp những kiến thức mình đã học nên mình không có dự định share rộng rãi cho nhiều người. Các bạn có vô tình xem được ở đâu đó thì hãy xem đó như một tài liệu tham khảo mà thôi.
       </>
     ),
   },
