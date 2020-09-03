@@ -12,7 +12,7 @@ const features = [
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Blog này được lập ra với mục đích để mình viết tài liệu về những gì mình đã được học từ thầy, từ những khóa học, ... nằm trong <code>documentation</code> directory. Để mình có thể ôn lại bất kỳ lúc này cũng nhau nhiều năm sau mình có một nơi lưu trữ chặng đường mình đã đi qua và có cái để nhìn lại mình đã học và làm được gì.
+        Blog này được lập ra với mục đích để mình viết tài liệu về những gì mình đã được học từ thầy, từ những khóa học, ... nằm trong <code>documentation</code> directory. Để mình có thể ôn lại bất kỳ lúc nào cũng nhau nhiều năm sau mình có một nơi lưu trữ chặng đường mình đã đi qua và có cái để nhìn lại mình đã học và làm được gì.
       </>
     ),
   },
