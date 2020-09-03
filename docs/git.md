@@ -81,7 +81,7 @@ git log --graph
 
 - Click vào dấu "+" góc bên phải cửa sổ trình duyệt (cạnh account avatar)
 
-![Click "+" at top-right viewport (next to account avatar)](../static/img/create-repo-1.png)
+![Click "+" at top-right viewport (next to account avatar)](https://raw.githubusercontent.com/edwardtran97/frontend-blog/master/static/img/create-repo-1.png?token=ALRPQNGTIQ7MSM36QMFGNXK7KDNHM)
 
 - Click chọn "New repository"
 
