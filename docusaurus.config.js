@@ -1,28 +1,28 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
+  title: 'Edward Tran Front- end Blog',
+  tagline: 'From Zero to Hero on Front-end Career Path',
+  url: 'https://azfrontend.vercel.app/',
   baseUrl: '/',
   favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'edwardtran97', // Usually your GitHub org/user name.
+  projectName: 'frontend-blog', // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: 'My Site',
+      title: 'EDWARD TRAN',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'Edward Tran logo',
         src: 'img/logo.svg',
       },
       links: [
         {
           to: 'docs/doc1',
           activeBasePath: 'docs',
-          label: 'Docs',
+          label: 'Documentation',
           position: 'left',
         },
-        {to: 'blog', label: 'Blog', position: 'left'},
+        { to: 'blog', label: 'Blog', position: 'left' },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/edwardtran97/frontend-blog',
           label: 'GitHub',
           position: 'right',
         },
@@ -35,12 +35,12 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Style Guide',
+              label: 'HTML & CSS',
               to: 'docs/doc1',
             },
             {
-              label: 'Second Doc',
-              to: 'docs/doc2',
+              label: 'Git',
+              to: 'docs/git',
             },
           ],
         },
