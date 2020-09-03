@@ -1,7 +1,7 @@
 ---
-id: git
-title: Setup Git - Create repository - Deploy with Vercel 
-sidebar_label: Setup Git - Create repository - Deploy with Vercel 
+id: git-blog
+title: Setup Git - Create Github repository - Deploy with Vercel 
+sidebar_label: Setup Git - Create Github repository - Deploy with Vercel 
 ---
 
 Tài liệu xoay quanh 3 chủ đề:
@@ -81,7 +81,7 @@ git log --graph
 
 - Click vào dấu "+" góc bên phải cửa sổ trình duyệt (cạnh account avatar)
 
-![Click "+" at top-right viewport (next to account avatar)](https://raw.githubusercontent.com/edwardtran97/frontend-blog/master/static/img/create-repo-1.png?token=ALRPQNGTIQ7MSM36QMFGNXK7KDNHM)
+![Click "+" at top-right viewport (next to account avatar)](../static/img/create-repo-1.png)
 
 - Click chọn "New repository"
 
@@ -99,7 +99,7 @@ git log --graph
 
 ![Copy & paste những lệnh sau vào Terminal trong Visual Studio Code](../static/img/copy-paste-in-terminal-vscode.png)
 
-- Reload lại trình duyệt và tada ... source code đã được `push` lên Github
+- Reload lại trình duyệt và tada ... source code đã được push lên Github
 
 ![Push source code lên Github](../static/img/push-repo.png)
 

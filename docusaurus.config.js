@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Edward Tran Front- end Blog',
+  title: 'Edward Tran Front-end Blog',
   tagline: 'From Zero to Hero on Front-end Career Path',
   url: 'https://azfrontend.vercel.app/',
   baseUrl: '/',
@@ -40,42 +40,42 @@ module.exports = {
             },
             {
               label: 'Git',
-              to: 'docs/git',
+              to: 'docs/git-blog',
             },
           ],
         },
         {
-          title: 'Community',
+          title: 'Contact',
           items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/edwardtran97',
+            },
+            {
+              label: 'Telegram',
+              href: 'https://t.me/edwardtran97',
+            },
+            {
+              label: 'Facebook',
+              href: 'https://www.facebook.com/edwardtran97/',
+            },
+          ],
+        },
+        {
+          title: 'Developers Community',
+          items: [
+            {
+              label: 'Easy Frontend',
+              href: 'https://www.ezfrontend.com/',
+            },
+            {
+              label: 'Evondev',
+              href: 'https://evondev.com/',
             },
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+      copyright: `Copyright © ${new Date().getFullYear()} Edward Tran. Built with Docusaurus.`,
     },
   },
   presets: [
@@ -85,14 +85,14 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/edit/master/website/',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+          // editUrl:
+          //   'https://github.com/facebook/docusaurus/edit/master/website/blog/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
