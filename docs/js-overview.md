@@ -4,7 +4,7 @@ title: JS01 - Javascript Introduction
 sidebar_label: JS01 - Javascript Introduction
 ---
 
-# Giới thiệu tổng quát khóa học JS 
+## Giới thiệu tổng quát khóa học JS 
 
 Nội dung khóa học diễn ra trong 8 tuần với 24 buổi:
 
