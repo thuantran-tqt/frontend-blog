@@ -38,6 +38,12 @@ module.exports = {
               label: 'HTML & CSS',
               to: 'docs/doc1',
             },
+
+            {
+              label: 'Javascript',
+              to: 'docs/js-overview',
+            },
+
             {
               label: 'Git',
               to: 'docs/git-blog',
