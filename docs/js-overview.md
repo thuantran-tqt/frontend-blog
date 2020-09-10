@@ -12,7 +12,7 @@ Nội dung khóa học diễn ra trong 8 tuần với 24 buổi:
 - 1 tuần về OOP + Giải thuật
 - 1 tuần làm với DOM + Game
 - 1 tuần làm việc với API
-- 1 tuần làm việc với Brower API
+- 1 tuần làm việc với Browser API
 - 1 tuần nói về các chủ đề nâng cao
 - 1 tuần support + prepare for ReactJS
 
