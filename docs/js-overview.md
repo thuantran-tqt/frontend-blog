@@ -16,7 +16,7 @@ Nội dung khóa học diễn ra trong 8 tuần với 24 buổi:
 - 1 tuần nói về các chủ đề nâng cao
 - 1 tuần support + prepare for ReactJS
 
-![Javacript overview](../static/img/javascript-docs/js01-overview-1.jpg)
+![Javacript overview](https://github.com/edwardtran97/frontend-blog/blob/master/static/img/javascript-docs/js01-overview-1.jpg?raw=true)
 
 - Quy tắc đặt tên hàm, biến chuẩn [Coding conversion](https://github.com/airbnb/javascript)
 
