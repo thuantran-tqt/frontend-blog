@@ -53,4 +53,4 @@ Nội dung khóa học diễn ra trong 8 tuần với 24 buổi:
 
 - Đặt tên biến thường bắt đầu bằng động từ "is...", "has..."
 
-[Demo code](../src/js/js01-overview.js)
+[Demo code](https://github.com/edwardtran97/frontend-blog/blob/master/src/js/js01-overview.js)
