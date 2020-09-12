@@ -49,8 +49,15 @@ Nội dung khóa học diễn ra trong 8 tuần với 24 buổi:
 
 - 1 function chỉ nên có tối đa 3 params
 
+- Đặt tên cho function bắt đầu bằng động từ như 'is...', 'has...' (do function để thực thi một nhiệm vụ nào đó)
+
 ### Variables
 
-- Đặt tên biến thường bắt đầu bằng động từ "is...", "has..."
+- Đặt tên biến bắt đầu bằng danh từ. Ví dụ:
+
+```
+const name = 'Edward';
+const firstName = 'Thuan';
+```
 
 [Demo code](https://github.com/edwardtran97/frontend-blog/blob/master/src/js/js01-overview.js)
