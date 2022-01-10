@@ -8,17 +8,17 @@ import styles from './styles.module.css';
 
 const features = [
   {
-    title: <>Mục đích của Blog</>,
+    title: <>Mục đích của Crypto Blog</>,
     imageUrl: 'img/undraw_docusaurus_tree.svg',
     description: (
       <>
-        Blog này được lập ra với mục đích để mình viết tài liệu về những gì mình đã được học từ thầy, từ những khóa học, ... nằm trong <code>documentation</code> directory. Để mình có thể ôn lại bất kỳ lúc nào cũng như nhiều năm sau mình có một nơi lưu trữ chặng đường đã đi qua và có cái để nhìn lại mình đã học và làm được những gì.
+        Crypto Blog là nơi mình viết về những bài học, trải nghiệm đầu tư trong thị trường Crypto. Xa hơn là một thư viện nơi mình tổng hợp các kiến thức sau một thời gian đầu tư và tham gia vào thị trường Crypto.
       </>
     ),
   },
 
   {
-    title: <>Dành cho Beginners</>,
+    title: <>Bài học, trải nghiệm đầu tư</>,
     imageUrl: 'img/undraw_docusaurus_mountain.svg',
     description: (
       <>
@@ -28,7 +28,7 @@ const features = [
   },
 
   {
-    title: <>Lưu ý quan trọng</>,
+    title: <>Xây dựng cộng đồng</>,
     imageUrl: 'img/undraw_docusaurus_react.svg',
     description: (
       <>
@@ -71,7 +71,7 @@ function Home() {
                 styles.getStarted,
               )}
               to={useBaseUrl('docs/doc1')}>
-              Get Started
+              Khám phá nào!
             </Link>
           </div>
         </div>
